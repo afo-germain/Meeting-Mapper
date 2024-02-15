@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "nom": "Student",
+        "prenom": "1",
+        "latitude": 47.51155,
+        "longitude": 6.79594,
+        "adresse": "Crous R\u00e9n\u00e9 Thom"
+    },
+    {
+        "id": 2,
+        "nom": "Student",
+        "prenom": "Y",
+        "latitude": 47.49418,
+        "longitude": 6.8015,
+        "adresse": "Crous Portes Du Jura"
+    },
+    {
+        "id": 3,
+        "nom": "Student",
+        "prenom": "3",
+        "latitude": 47.11155,
+        "longitude": 6.99594,
+        "adresse": "Test"
+    },
+    {
+        "id": 4,
+        "nom": "Student",
+        "prenom": "4",
+        "latitude": 47.61155,
+        "longitude": 6.69594,
+        "adresse": "Test"
+    },
+    {
+        "id": 5,
+        "nom": "AFOLABI",
+        "prenom": "Germain",
+        "latitude": 47.61155,
+        "longitude": 6.69594,
+        "adresse": "Germain"
+    }
+]
